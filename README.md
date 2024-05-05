@@ -2,14 +2,14 @@
 # Info de la materia: ST0263 Topicos especiales en Telematica.
 
 ## Estudiante(s):
-- **David Alvarez Grisales** 
-- **dalvarezg@eafit.edu.co** 
+- **David Alvarez Grisales**
+- **Julio Cesar Posada Torres** 
 
 ## Profesor:
 - **Nombre:** Alvaro Enrique Ospina Sanjuan
 - **Correo Electrónico:** aeospinas@eafit.edu.co
 
-## Reto 1 y 2.
+## Reto 4.
 
 ## 1. Breve descripción de la actividad.
 
@@ -71,11 +71,9 @@ La ip usada fue la local de la maquina: "127.0.0.1"
 Archivos:
 
 
-![image](https://github.com/Davidrk31/dalvarezg-st0263/assets/89051979/8e535cf3-db5c-430b-b16c-a03543c88eb0)
 
 
 # 4 Ambiente de ejecucion:
-Para este reto 1 y 2 todo se hizo de manera local 
 
 
 # Referencias:
