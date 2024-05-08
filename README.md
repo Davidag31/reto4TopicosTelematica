@@ -78,14 +78,10 @@ Archivos:
 
 # Referencias:
 
-* https://youtu.be/WB37L7PjI5k 
+* [Instalación Kubectl](https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html)
 
-* https://putukusuma.medium.com/creating-simple-cryptocurrency-part-5-peer-to-peer-p2p-with-grpc-f96913ddd7dd
+* https://foolcontrol.org/?p=3754
 
-* https://blog.hubspot.com/website/what-is-rest-api#:~:text=A%20REST%20API%20(also%20called,resource%20in%20a%20standardized%20representation.
-
-* https://github.com/cpurta/p2p-grpc
-
-* https://grpc.io/docs/languages/python/basics/
+* [Instalación Helm](https://helm.sh/docs/intro/install/)
 
 
