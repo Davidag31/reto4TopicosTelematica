@@ -54,4 +54,7 @@ El proyecto se encuentra en https://reto4.construmarket.tech/
 
 * [Instalación Helm](https://helm.sh/docs/intro/install/)
 
+# Video:
+https://drive.google.com/file/d/1JhPlGCW1mSxTVY-5AEMuLBfF47mYIryB/view?usp=drive_link
+
 
