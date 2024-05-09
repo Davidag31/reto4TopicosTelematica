@@ -13,8 +13,7 @@
 
 ## 1. Breve descripción de la actividad.
 
-Se ha desarrollado un sistema P2P donde cada nodo o peer contiene varios microservicios que soportan un sistema de compartición de archivos distribuido y descentralizado, Se ha utilizado el middleware gRPC para la comunicación entre los diferentes nodos o peers, para esto se creo un servidor el cual seria el principal donde cada cliente peer se conecta a este, alli se realizan los metodos API REST como el login, logout, index y search, el servidor prinicipal cuenta con una base de datos simulada la cual va en un .json, en esta se encuentra la informacion de cada peer, su usuario, su contraseña y los archivos que este contiene, luego se simulo la descarga de los archivos con la conexion gRPC entre los peers, esto mediante el server peer.
-
+En este desafío llevaremos a cabo la implementación de una aplicación Wordpress monolítica utilizando Docker en diversos nodos, con el propósito de mejorar la accesibilidad de la aplicación. Con este fin, pondremos en marcha un balanceador de carga basado en Nginx que gestionará el tráfico web https proveniente de Internet, distribuyéndolo entre múltiples instancias de procesamiento. Asimismo, aprovecharemos el sistema de base de datos MySQL de la plataforma de Google Cloud. Adicionalmente, contaremos con un servidor NFS para el almacenamiento de los archivos de la aplicación Wordpress, utilizando una instancia EC2.
 # 1.1. Que aspectos cumplió o desarrolló de la actividad propuesta por el profesor (requerimientos funcionales y no funcionales)
 Se cumplio todo lo requerido para el reto 4:
 - Implementación del clúster de kubernetes en AWS.
